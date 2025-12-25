@@ -1,0 +1,13 @@
+# CLion 配置文件
+.idea/
+cmake-build-*/
+*.swp
+*.user
+
+# 编译垃圾 (虽然在外面，但以防万一)
+build/
+install/
+log/
+
+# 编译数据库
+compile_commands.json

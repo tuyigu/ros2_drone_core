@@ -1,0 +1,4 @@
+motion_controller:
+  ros__parameters:
+    arm_delay_sec: 2.0    # 解锁前等待几秒
+    auto_arm: true        # 是否自动解锁
